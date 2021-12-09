@@ -1,0 +1,33 @@
+1.  Personal Journal
+
+    Pitch/Idea: Create a personal journal. Log each entry, include pictures, time stamps, etc. Share with your friends or keep to yourself by making it public or private. 
+
+    MVP: 
+    - User can login/create account
+    - User can create journal entries
+    - User can view/search journal entries
+    - User can delete journal entries
+    - User can upload pictures and videos to journal entries
+
+    Future Features:
+    - User can share their journal entry
+    - User can add friends on the site
+    - User can make their journal entry public to their friends or private
+    - Users can create a "family email" template to download or share directly on the site with friend group
+
+2.  Expense Tracker
+
+    Pitch/Idea: 
+    A simple expense tracker that can take your monthly budget and update it as you input your expenses. Then, it can display the trends from each category in a bar chart or pie chart. 
+
+    MVP: 
+    - User can add expense
+    - User can delete expense
+    - User can log in/create account
+    - User can view overview of monthly expenses/budget
+    - User can add their monthly budget amount
+
+    Future Features:
+    - User can view a pie chart/bar chart of their tracked spending
+    - User can add spending subsections
+    - Use can pick their theme
