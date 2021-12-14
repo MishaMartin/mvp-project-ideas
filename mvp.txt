@@ -8,12 +8,21 @@
     - User can view/search journal entries
     - User can delete journal entries
     - User can upload pictures and videos to journal entries
+    - User can choose options for their font size, color, and style
+    - User can select the color of their entry
+    - User can create multiple journals
+    - User can select a daily journal prompt
 
     Future Features:
-    - User can share their journal entry
-    - User can add friends on the site
-    - User can make their journal entry public to their friends or private
-    - Users can create a "family email" template to download or share directly on the site with friend group
+    - Users can choose the color of their entry
+    - User can see their streak for creating a journal entry
+    - Users can download/export their entry
+    - Users can view their "on this day" memory
+    - Users can import a custom font for their entry
+    - Users can include a music tag of a song
+    - User can create an entry with voice recording
+    - User can choose to automatically sync their entries or turn off the feature
+    - User can set a notification time to remind them to write a journal entry
 
 2.  Expense Tracker
 
